@@ -67,5 +67,3 @@ Me chamo Eric de Mello Conceição, sou natural de Cordeiro - RJ. Atualmente, cu
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
