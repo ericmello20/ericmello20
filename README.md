@@ -67,3 +67,9 @@ Me chamo Eric de Mello Conceição, sou natural de Cordeiro - RJ. Atualmente, cu
 
 <br/>
 <br/>
+
+##
+
+<div align = center>
+<img src="https://raw.githubusercontent.com/ericmello20/ericmello20/output/snake.svg" alt="Snake animation" />
+</div>
