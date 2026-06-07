@@ -7,10 +7,10 @@
 ---
 
 <h2 align="center">  Sobre Mim </h2>
-<p align="center">Me chamo <strong>Eric de Mello Conceição</strong>, sou natural de <strong>Cordeiro - RJ</strong> e atualmente curso <strong>Sistemas de Informação</strong> no <strong>CEFET/RJ - Polo Nova Friburgo</strong>.</p>
+<p align="center">Me chamo <strong>Eric de Mello Conceição</strong>, sou natural de <strong>Cordeiro - RJ</strong>. <br>Atualmente curso <strong>Sistemas de Informação</strong> no <strong>CEFET/RJ - Polo Nova Friburgo</strong>.</p>
 
 
-<p align="center">Tenho interesse em desenvolvimento FullStack, criando aplicações modernas utilizando tecnologias web, banco de dados e boas práticas de programação.</p>
+<p align="center">Tenho interesse em desenvolvimento FullStack</p>
 
 ---
 
