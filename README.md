@@ -74,3 +74,10 @@
 ![Snake animation](https://raw.githubusercontent.com/ericmello20/ericmello20/output/snake.svg)
 
 </div>
+
+---
+
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ericmello20.ericmello20&left_color=black&right_color=blueviolet" />
+</p>
