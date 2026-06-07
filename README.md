@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Sobre Mim
+<h2 align="center">  Sobre Mim </h2>
 <p align="center">Me chamo <strong>Eric de Mello Conceição</strong>, sou natural de <strong>Cordeiro - RJ</strong> e atualmente curso <strong>Sistemas de Informação</strong> no <strong>CEFET/RJ - Polo Nova Friburgo</strong>.</p>
 
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🌐 Informações de Contato
+<h2 align="center">  Informações de Contato  </h2>
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+<h2 align="center">  Linguagens e Tecnologias  </h2> 
 
 <div align="center">
 
@@ -54,13 +54,10 @@
 
 </div>
 
-<br>
 
 ---
 
-## 📊 GitHub Stats
-
-<br>
+<h2 align="center">  GitHub Stats  </h2>
 
 <div align="center">
 
@@ -70,7 +67,7 @@
 
 ---
 
-## 🐍 Contribuições
+<h2 align="center">  Contribuições  </h2>
 
 <div align="center">
 
