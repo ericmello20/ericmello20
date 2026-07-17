@@ -1,7 +1,7 @@
 <h1 align="center">Eric Mello</h1>
 
 <p align="center">
-  <strong>Desenvolvedor FullStack</strong>
+  <strong>Desenvolvedor de Software Junior</strong>
 </p>
 
 ---
