@@ -54,17 +54,6 @@
 
 </div>
 
-
----
-
-<h2 align="center">  GitHub Stats  </h2>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ericmello20&theme=midnight-purple&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 <h2 align="center">  Contribuições  </h2>
